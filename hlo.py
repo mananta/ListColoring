@@ -1,8 +1,8 @@
 
-import sys
-sys.setrecursionlimit(12000)
+# import sys
+# sys.setrecursionlimit(12000)
 
-print(sys.getrecursionlimit())
+# print(sys.getrecursionlimit())
 
 # g={0:[3,4,5], 1:[3,4,5], 2:[3,4,5], 3:[0,1,2], 4:[0,1,2], 5:[0,1,2]}
 # l={0:[1,2], 1:[2,3], 2:[1,3], 3:[1,2], 4:[2,3], 5:[1,3]}
